@@ -66,7 +66,7 @@
 
 AI Backtester provides free AI-powered backtesting for crypto trading strategies, allowing users to describe strategies in plain English and receive detailed performance reports instantly.
 
-**Areas:** AI · Crypto · Backtesting · Finance · Automation
+**Areas:** Artificial Intelligence · Cryptocurrency · Backtesting · Finance · Automation
 
 ## AI Backtester on APIs.io
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aibacktester App Authentication](https://apis.io/security/aibacktester-app/aibacktester-app-authentication/)
-- [Aibacktester App Domain Security](https://apis.io/security/aibacktester-app/aibacktester-app-domain-security/)
+- [AI Backtester Authentication](https://apis.io/security/aibacktester-app/aibacktester-app-authentication/)
+- [AI Backtester Domain Security](https://apis.io/security/aibacktester-app/aibacktester-app-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Aibacktester App Scopes](https://apis.io/scopes/aibacktester-app/aibacktester-app-scopes/)
+- [AI Backtester Scopes](https://apis.io/scopes/aibacktester-app/aibacktester-app-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aibacktester App Plans Pricing](https://apis.io/plans/aibacktester-app/aibacktester-app-plans-pricing/)
+- [AI Backtester Plans Pricing](https://apis.io/plans/aibacktester-app/aibacktester-app-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Aibacktester App Rate Limits](https://apis.io/rate-limits/aibacktester-app/aibacktester-app-rate-limits/)
+- [AI Backtester Rate Limits](https://apis.io/rate-limits/aibacktester-app/aibacktester-app-rate-limits/)
 
 ## Where to find this API
 
@@ -120,7 +120,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.6** — emerging · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 24.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -129,16 +129,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 63.7 |
+| Access clarity | 66.0 |
 
-**Agent readiness 24.3** — agent-aware
+**Agent readiness 23.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -146,7 +146,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -157,8 +157,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aibacktester-app/](https://apis.io/providers/aibacktester-app/).
 
